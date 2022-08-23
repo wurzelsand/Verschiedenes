@@ -1,3 +1,3 @@
 # Verschiedenes
 
-* [MacOS](../wiki/MacOS)
+* [MacOS](../../wiki/MacOS)
